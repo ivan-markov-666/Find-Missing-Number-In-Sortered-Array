@@ -17,7 +17,7 @@ Please follow the steps to set up the project:
 5. Get all dependencies:  
 > npm install  
 6. To execute the class that contains two examples - run the following  in the terminal:  
-> npm run start
+> npm run start  
 Make sure you execute the command at the root of the project folder.  
 8. Read the readme.md file and comments inside the {root}/src/findMissingNumber.ts class for more details.   
 
