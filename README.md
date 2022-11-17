@@ -22,12 +22,5 @@ Please follow the steps to set up the project:
 Make sure you execute the command at the root of the project folder.  
 8. Read the readme.md file and comments inside the {root}/src/findMissingNumber.ts class for more details.   
 
-### Log:
-The frame has error logs, alert logs and information logs.  
-The logs can be turned on and off from config class.  
-- The automation will show the error log if something is wrong with the execution of a function (if the operation fails for some reason).  
-- The automation will show the alert log if something is not covered in the executed function.
-- The automation will show the information log whenever we pass some function.  
-
 ### Colorize the log:
 Because reading log data from the terminal is not easy, I colourize the messages for easy reading.
