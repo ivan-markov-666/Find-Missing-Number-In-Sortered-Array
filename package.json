@@ -1,0 +1,16 @@
+{
+  "name": "check-for-missing-number-from-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findMissingNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc src/findMissingNumber.ts && node src/findMissingNumber.js",
+    "compile": "tsc"
+  },
+  "author": "Ivan Markov",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
