@@ -23,4 +23,4 @@ Make sure you execute the command at the root of the project folder.
 8. Read the readme.md file and comments inside the {root}/src/findMissingNumber.ts class for more details.   
 
 ### Colorize the log:
-Because reading log data from the terminal is not easy, I colourize the messages for easy reading.
+Because reading log data from the terminal is not easy, I colorize the messages for easy reading.
